@@ -1,12 +1,12 @@
-# team 19 Scrum Sqaud
+# Team 19 Scrum Sqaud
 # Members:-
-  Swaroopa
-  Hemanth
-  Pranay
-  Sadam
-  Jaimin
-  jay
-  Matthew
+  Swaroopa Sandu.
+  Hemanth Haluvadi Manchegowda.
+  Pranay Reddy juturu.
+  Sadam Mohammed usman.
+  Jaiminkumar Bhupeshkumar Desai.
+  Jay Kalyanbhai Savani.
+  Matthew Destefano.
 
 
 
