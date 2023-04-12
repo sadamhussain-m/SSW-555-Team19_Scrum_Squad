@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Title } from '@angular/platform-browser';
 
 @Component({
   selector: 'app-dashboard',
@@ -6,9 +7,11 @@ import { Component } from '@angular/core';
   styleUrls: ['./dashboard.component.css']
 })
 export class DashboardComponent {
-  public totalUsers: number = 1000;
-  public activeUsers: number = 750;
-  public newUsersToday: number = 25;
+  
+  name : string = "Swaroopa";
+  ngOnit():void{
+    
+  }
 
   constructor() { }
 
